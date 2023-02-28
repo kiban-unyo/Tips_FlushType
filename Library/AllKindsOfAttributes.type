@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<object class="kapow.robot.common.domain.Type" serializationversion="0">
+  <prologue>
+    <saved-by-versions>
+      <version>10.4.0.1</version>
+    </saved-by-versions>
+  </prologue>
+  <property name="attributes" class="kapow.robot.common.domain.Attributes">
+    <object class="kapow.robot.common.domain.Attribute" serializationversion="0">
+      <property name="name" class="String">BinaryValue</property>
+      <property name="type" class="kapow.robot.plugin.common.domain.BinaryAttributeType"/>
+    </object>
+    <object class="kapow.robot.common.domain.Attribute" serializationversion="0">
+      <property name="name" class="String">BooleanValue</property>
+      <property name="type" class="kapow.robot.plugin.common.domain.BooleanAttributeType"/>
+    </object>
+    <object class="kapow.robot.common.domain.Attribute" serializationversion="0">
+      <property name="name" class="String">CharacterValue</property>
+      <property name="type" class="kapow.robot.plugin.common.domain.CharacterAttributeType"/>
+    </object>
+    <object class="kapow.robot.common.domain.Attribute" serializationversion="0">
+      <property name="name" class="String">CountryValue</property>
+      <property name="type" class="kapow.robot.plugin.common.domain.CountryAttributeType"/>
+    </object>
+    <object class="kapow.robot.common.domain.Attribute" serializationversion="0">
+      <property name="name" class="String">CurrencyValue</property>
+      <property name="type" class="kapow.robot.plugin.common.domain.CurrencyAttributeType"/>
+    </object>
+    <object class="kapow.robot.common.domain.Attribute" serializationversion="0">
+      <property name="name" class="String">DateValue</property>
+      <property name="type" class="kapow.robot.plugin.common.domain.DateAttributeType"/>
+    </object>
+    <object class="kapow.robot.common.domain.Attribute" serializationversion="0">
+      <property name="name" class="String">ExcelValue</property>
+      <property name="type" class="kapow.robot.plugin.common.domain.ExcelAttributeType"/>
+    </object>
+    <object class="kapow.robot.common.domain.Attribute" serializationversion="0">
+      <property name="name" class="String">HTMLValue</property>
+      <property name="type" class="kapow.robot.plugin.common.domain.HTMLCodeAttributeType"/>
+    </object>
+    <object class="kapow.robot.common.domain.Attribute" serializationversion="0">
+      <property name="name" class="String">ImageValue</property>
+      <property name="type" class="kapow.robot.plugin.common.domain.ImageAttributeType"/>
+    </object>
+    <object class="kapow.robot.common.domain.Attribute" serializationversion="0">
+      <property name="name" class="String">IntegerValue</property>
+      <property name="type" class="kapow.robot.plugin.common.domain.IntegerAttributeType"/>
+    </object>
+    <object class="kapow.robot.common.domain.Attribute" serializationversion="0">
+      <property name="name" class="String">JSONValue</property>
+      <property name="type" class="kapow.robot.plugin.common.domain.JSONAttributeType"/>
+    </object>
+    <object class="kapow.robot.common.domain.Attribute" serializationversion="0">
+      <property name="name" class="String">LanguageValue</property>
+      <property name="type" class="kapow.robot.plugin.common.domain.Language2AttributeType"/>
+    </object>
+    <object class="kapow.robot.common.domain.Attribute" serializationversion="0">
+      <property name="name" class="String">LongTextValue</property>
+      <property name="type" class="kapow.robot.plugin.common.domain.TextAttributeType"/>
+    </object>
+    <object class="kapow.robot.common.domain.Attribute" serializationversion="0">
+      <property name="name" class="String">NumberValue</property>
+      <property name="type" class="kapow.robot.plugin.common.domain.DoubleAttributeType"/>
+    </object>
+    <object class="kapow.robot.common.domain.Attribute" serializationversion="0">
+      <property name="name" class="String">PasswordValue</property>
+      <property name="type" class="kapow.robot.plugin.common.domain.PasswordAttributeType"/>
+    </object>
+    <object class="kapow.robot.common.domain.Attribute" serializationversion="0">
+      <property name="name" class="String">PDFValue</property>
+      <property name="type" class="kapow.robot.plugin.common.domain.PDFAttributeType"/>
+    </object>
+    <object class="kapow.robot.common.domain.Attribute" serializationversion="0">
+      <property name="name" class="String">PropertiesValue</property>
+      <property name="type" class="kapow.robot.plugin.common.domain.PropertiesAttributeType"/>
+    </object>
+    <object class="kapow.robot.common.domain.Attribute" serializationversion="0">
+      <property name="name" class="String">SessionValue</property>
+      <property name="type" class="kapow.robot.plugin.common.domain.SessionAttributeType"/>
+    </object>
+    <object class="kapow.robot.common.domain.Attribute" serializationversion="0">
+      <property name="name" class="String">ShortTextValue</property>
+      <property name="type" class="kapow.robot.plugin.common.domain.StringAttributeType"/>
+    </object>
+    <object class="kapow.robot.common.domain.Attribute" serializationversion="0">
+      <property name="name" class="String">XMLValue</property>
+      <property name="type" class="kapow.robot.plugin.common.domain.XML2AttributeType"/>
+    </object>
+  </property>
+  <property name="comment" class="String">すべてのタイプを1つずつ持っているタイプ</property>
+</object>
